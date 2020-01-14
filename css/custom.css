@@ -1,0 +1,376 @@
+
+.huasheng{
+  color: #cfb579 !important;
+}
+
+.contact-info .media-body .huasheng {
+  margin-top: 0px;
+}
+
+.slider_part {
+  position: absolute !important;
+  right: 0;
+  top: 0;
+  content: "";
+  width: 50%;
+  height: 100% !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+@media (max-width: 991px) {
+  /* line 7, E:/161 Real estate/161_Real_state_html/sass/_banner.scss */
+  .slider_part {
+    display: none;
+  }
+
+  .banner_part {
+    background-image: url("../img/passion_bg.png");
+  }
+  /*#small_slideshow {
+    display:block;
+  }*/
+}
+.carousel-indicators {
+    bottom: 10px;
+    left: inherit;
+    margin: 0;
+    right: 30px;
+    top: 49%;
+    width: 0;
+}
+.carousel-indicators li {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    height: 8px;
+    width: 8px;
+}
+.carousel-indicators .active {
+    height: 8px;
+    width: 8px;
+}
+
+#slideshow {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 800px;
+  width: 100%;
+  overflow: hidden;
+  -webkit-mask-image: url(../img/mask.png);
+}
+
+.small_slideshow {
+  /*overflow: hidden;
+  margin: 0 auto;
+  height: 800px;
+  width: 100%;
+  overflow: hidden;*/
+  display:none;
+}
+
+.slide {
+  float: left;
+  height: 800px;
+  width: 100%;
+}
+.banner_style {
+  width: 100%;
+  min-height: 800px;
+}
+
+@-webkit-keyframes slide {
+  20% {margin-left: 0px;}
+  30% {margin-left: -728px;}
+  50% {margin-left: -728px;}
+  60% {margin-left: -1456px;}
+  70% {margin-left: -1456px;}
+  80% {margin-left: -2184px;}
+  90% {margin-left: -2184px;}
+}
+#facts {
+  background-image: url("../img/passion_bg.png");
+  background-color: rgba(6,32,51,.8);
+  background-attachment: fixed !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+}
+
+#facts {
+background-position: center top !important;
+}
+
+#passions {
+  background-image: url("../img/team.jpg");
+  background-color: rgba(6,32,51,.8);
+  background-attachment: fixed !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+}
+
+#passions {
+background-position: center top !important;
+}
+.scroll-controller {
+  padding: 250px 0px 130px;
+}
+@media (max-width: 576px) {
+  /* line 38, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
+  .scroll-controller {
+    padding: 30px 20px 35px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 38, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
+  .scroll-controller {
+    padding: 30px 20px 35px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 38, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
+  .scroll-controller {
+    padding: 30px 20px 35px;
+  }
+}
+#back-top {
+  bottom: 20px;
+  position: fixed;
+  right: 25px;
+  z-index: 9999;
+}
+.features {
+  background-color: #f4f7f9;
+}
+.features_style {
+  padding: 70px 0;
+}
+.row_features {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.row_mb50 {
+  margin-bottom: : 50px;
+}
+.features_title {
+  color: #cfb579;
+  font-size: 28px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.features_devider {
+  margin-top: 30px;
+}
+.devider_line {
+  color: #cccccc;
+}
+
+.row_features .fadeInLeft {
+  float: left;
+}
+
+.row_features .fadeInUp {
+  float: left;
+}
+
+.row_features .fadeInRight {
+  float: left;
+}
+
+.features_devider::before {
+  content: "______________________";
+  color: #e6e8ea;
+  position: relative;
+  bottom: 6px;
+  right: 10px;
+}
+
+.features_devider::after {
+  content: "______________________";
+  color: #e6e8ea;
+  position: relative;
+  bottom: 6px;
+  left: 10px;
+}
+
+.service-icon {
+    border: 1px solid #cfb579;
+    border-radius: 50%;
+    color: #cfb579;
+    float: left;
+    padding: 10px 13px;
+}
+
+.service-desc {
+    margin-left: 70px;
+    position: relative;
+    top: 5px;
+}
+
+.parallax-overlay {
+    background-color: rgba(6,32,51,.8);
+    padding: 70px 0;
+}
+
+.parallax-overlay .container::before {
+    display: table;
+    content: " ";
+}
+
+.parallax-overlay .container::after {
+    clear: both;
+}
+
+.parallax-overlay .container .row {
+  display: block;
+}
+
+.parallax-overlay .container .number-counters::before {
+    display: table;
+    content: " ";
+}
+
+.parallax-overlay .container .number-counters::after{
+    display: table;
+    content: " ";
+}
+
+.number-counters .sec-title {
+    margin-bottom: 50px;
+}
+
+.single_passion_item {
+  cursor: pointer;
+}
+
+.facts_title {
+  color: #0eb493;
+  font-size: 28px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.facts_devider::before {
+  content: "______________________";
+  color: #ffffff;
+  position: relative;
+  bottom: 6px;
+  right: 10px;
+}
+
+.facts_devider::after {
+  content: "______________________";
+  color: #ffffff;
+  position: relative;
+  bottom: 6px;
+  left: 10px;
+}
+
+.facts_devider {
+  margin-top: 30px;
+}
+
+.facts_heart {
+  color: #ffffff;
+}
+
+.facts .fadeInLeft {
+  float: left;
+}
+
+.facts .fadeInUp {
+  float: left;
+}
+
+.facts .fadeInRight {
+  float: left;
+}
+
+.counters-item {
+    color: #fff;
+}
+
+.counters-item i {
+    border: 1px solid #737C85;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    height: 120px;
+    margin: 0 0 35px;
+    padding: 40px 0 0;
+    width: 120px;
+}
+
+.counters-item strong {
+    display: block;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+.counters-item p {
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+figure, p {
+    margin: 0;
+}
+
+.custom-container {
+  display: table;
+}
+
+.passion_height {
+  height: 100%;
+  flex : 0 0 20%;
+  padding: 0px 15px 0px 15px;
+}
+.scroll_hide {
+  width: 200px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+#passions {
+  background-position: center top !important;
+}
+.modal-notify .modal-header {
+    border-radius: 3px 3px 0 0;
+}
+.modal-notify .modal-content {
+    border-radius: 3px;
+}
+
+/*#body {
+  overflow-y: scroll;
+}
+#body::-webkit-scrollbar,
+#body::-webkit-scrollbar-thumb {
+  overflow:visible;
+  border-radius: 4px;
+}
+#body::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,.2);
+}
+.cover-bar {
+  position: absolute;
+  background: #fff;;
+  height: 100%;
+  top: 0;
+  right: 0;
+  width: .4em;
+  -webkit-transition: all .5s;
+  opacity: 1;
+}
+.scroll_hide:hover .cover-bar {
+   opacity: 0;
+  -webkit-transition: all .5s;
+}*/

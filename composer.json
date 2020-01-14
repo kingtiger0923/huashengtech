@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cloutier/php-ipfs-api": "^0.0.6",
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
