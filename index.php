@@ -477,7 +477,7 @@
                      <div class="client_info">
                         <img src="img/team/Edgar_Sia.png" alt="">
                         <h4>Edgar Sia</h4>
-                        <p>Senior iOS Engineer ( Swift / Obj-C ) - 9 Years' Experienced</p>
+                        <p>Project Manager</p>
                      </div>
                      <p>
                        <i>"Edgar is an expert IOS developer, He is the master of many IOS frameworks and is the right guy for any IOS app development with quality code, Highly Recommended !!" - Sasidhar Padmanabhuni of CrazyNova LLC.</i>
