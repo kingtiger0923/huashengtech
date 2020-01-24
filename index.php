@@ -513,6 +513,18 @@ Edgar was the Senior iOS Engineer in the above software companies, Buckham & Duf
                          Cryptocurrency & Blockchain Development: Bitcoin, Ethereum, Litecoin, etc</i>
                      </p>
                   </div>
+                  <div class="singler_eview_part">
+                     <div class="client_info">
+                        <img src="img/team/Zhang_Hao.png" alt="">
+                        <h4>Zhang Hao</h4>
+                        <p>Full-Stack Developer</p>
+                     </div>
+                     <p>
+                       <i>Zhang Hao is a fullstack web and mobile developer with 9 years of experiences.
+                           He is a speciality of javascript and C#.
+                           He is good at React.js, Vue.js, Node.js, ASP.NET and Swift.</i>
+                     </p>
+                  </div>
                </div>
             </div>
          </div>
