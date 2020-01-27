@@ -289,8 +289,7 @@
                   <div class="single_passion_item">
                      <a href="#" class="passion_icon"> <img src="img\icon\IOT.png" /> </a>
                      <h4> IOT </h4>
-                     <p>With the use of your personal and digital channels, your promotional spend will get optimized for your business worldwide. CRM and ERP
-                       system is integrated to give you maximum return on investment(ROI)
+                     <p>The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs).
                      </p>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
                   </div>
@@ -313,7 +312,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-desk"></i> </a>
+                     <a href="#" class="passion_icon"> <img src="img\icon\FinTech.png" /> </a>
                      <h4>FinTech</h4>
                      <p>Financial companies expect to be able to leverage the latest technological advancements to make
                        their daily operations easier. HuaSheng Tech specializes in creating software solutions that make this possible on any scale.
@@ -325,7 +324,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-bathroom"></i> </a>
+                     <a href="#" class="passion_icon"> <img src="img\icon\GIS.png" /> </a>
                      <h4>GIS</h4>
                      <p>Deliver geospatial consultancy services to a wild range of clients involved in transport and infrastructure, asset management, land management and planning.<br/><br/><br/></p>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -335,7 +334,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-beach"></i> </a>
+                     <a href="#" class="passion_icon"> <img src="img\icon\CRM_ERP.png" /> </a>
                      <h4>CRM/ERP</h4>
                      <p>With the use of your personal and digital channels, your promotional spend will get optimized for your business worldwide. CRM and ERP
                        system is integrated to give you maximum return on investment(ROI)
@@ -347,10 +346,9 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-beach"></i> </a>
+                     <a href="#" class="passion_icon"> <img src="img\icon\AR_VR.png" /> </a>
                      <h4>AR/VR</h4>
-                     <p>With the use of your personal and digital channels, your promotional spend will get optimized for your business worldwide. CRM and ERP
-                       system is integrated to give you maximum return on investment(ROI)
+                     <p>Augmented reality (AR) adds digital elements to a live view often by using the camera on a smartphone. Examples of augmented reality experiences include Snapchat lenses and the game Pokemon Go.
                      </p>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
                   </div>
