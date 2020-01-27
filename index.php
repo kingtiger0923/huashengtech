@@ -241,7 +241,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-compass"></i> </a>
+                     <a href="#" class="passion_icon"> <i class="fas fa-shopping-cart" style="vertical-align: middle;"></i> </a>
                      <h4>E-Commerce</h4>
                      <p>
                        Our e-commerce web solution will keep your business ahead of your rivals and competitors as we develop it concisely
@@ -254,7 +254,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-desk"></i> </a>
+                     <a href="#" class="passion_icon"> <i class="fa fa-desktop" style="vertical-align: middle;"></i> </a>
                      <h4>Web Application</h4>
                      <p>
                        Leverage our solid development expertise to build media-rich and mobile-friendly websites solutions that bring your business to the
@@ -267,7 +267,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-bathroom"></i> </a>
+                     <a href="#" class="passion_icon"> <i class="fa fa-mobile" style="vertical-align: middle; font-size: 65px;"></i> </a>
                      <h4>Mobile Application</h4>
                      <p>We bring to life your ideas of native cross-platform, and hybrid mobile applications of various complexity, targeting smartphones and/or tablets. <br/><br/></p>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -277,7 +277,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-beach"></i> </a>
+                     <a href="#" class="passion_icon"><img src="img\icon\blockchain.png" /></a>
                      <h4>Blockchain</h4>
                      <p>Ongoing maintenance and support for your Blockchain application to ensure regular enhancements and upgrades.<br/><br/><br/></p>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -287,7 +287,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-beach"></i> </a>
+                     <a href="#" class="passion_icon"> <img src="img\icon\IOT.png" /> </a>
                      <h4> IOT </h4>
                      <p>With the use of your personal and digital channels, your promotional spend will get optimized for your business worldwide. CRM and ERP
                        system is integrated to give you maximum return on investment(ROI)
@@ -301,7 +301,7 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <i class="flaticon-compass"></i> </a>
+                     <a href="#" class="passion_icon"> <img src="img\icon\MachineLearning.png" /> </a>
                      <h4>Machine Learning / AI</h4>
                      <p>Try to exceed your expectations by offering truly innovative AI solutions poised to solve
                        your business problems by automating various tasks that cut down on costs and save a lot of time.<br/><br/>
@@ -367,7 +367,7 @@
          <div class="row">
             <div class="col-md-6 col-lg-6">
                <div class="room_1">
-                  <img src="img/webdev-1.png" alt="">
+                  <img src="img/webdev-1.png" >
                   <div class="room_text_1">
                      <h1>Web Sites Development <!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -376,7 +376,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                <div class="room_2">
-                  <img src="img/mobiledev-1.jpg" alt="">
+                  <img src="img/mobiledev-1.png" alt="">
                   <div class="room_text_2">
                      <h1>Mobile Application Development<!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -387,7 +387,7 @@
          <div class="row" style="padding-top: 30px;">      
             <div class="col-md-6 col-lg-6">
                <div class="room_2">
-                  <img src="img/server.jpg" alt="">
+                  <img src="img/servermanagement-1.png" alt="">
                   <div class="room_text_2">
                      <h1>Server Management<!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -396,7 +396,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                <div class="room_1">
-                  <img src="img/machinelearn.jpg" alt="">
+                  <img src="img/machinelearn1.png" alt="">
                   <div class="room_text_1">
                      <h1>Machine Learning / AI <!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -416,9 +416,9 @@
             </div>
             <div class="col-md-6 col-lg-6">
                <div class="room_1">
-                  <img src="img/machinelearn.jpg" alt="">
+                  <img src="img/crm-erp1.png" alt="">
                   <div class="room_text_1">
-                     <h1>Machine Learning / AI <!-- <br> light divided male <br> is light --></h1>
+                     <h1>CRM/ERP <!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
                   </div>
                </div>
