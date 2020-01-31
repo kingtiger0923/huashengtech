@@ -277,7 +277,10 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"><img src="img\icon\blockchain.png" /></a>
+                     <a href="#" class="passion_icon" style="color: white;">
+                        <img src="img\icon\blockchain1.svg" style="padding: 10px;" class="custom_blockchain_icon_1"/>
+                        <img src="img\icon\blockchain2.svg" style="padding: 10px;" class="custom_blockchain_icon_2"/>
+                     </a>
                      <h4>Blockchain</h4>
                      <p>Ongoing maintenance and support for your Blockchain application to ensure regular enhancements and upgrades.<br/><br/><br/></p>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -287,7 +290,10 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <img src="img\icon\IOT.png" /> </a>
+                     <a href="#" class="passion_icon"> 
+                        <img src="img\icon\IOT1.svg" style="padding: 10px;" class="custom_iot_icon_1"/>
+                        <img src="img\icon\IOT2.svg" style="padding: 10px;" class="custom_iot_icon_2"/>
+                     </a>
                      <h4> IOT </h4>
                      <p>The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs).
                      </p>
@@ -300,7 +306,11 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <img src="img\icon\MachineLearning.png" /> </a>
+                     <a href="#" class="passion_icon"> 
+                        <img src="img\icon\MachineLearning1.svg" style="padding: 10px;" class="custom_machine_icon_1"/>
+                        <img src="img\icon\MachineLearning2.svg" style="padding: 10px;" class="custom_machine_icon_2"/>
+                     </a>
+
                      <h4>Machine Learning / AI</h4>
                      <p>Try to exceed your expectations by offering truly innovative AI solutions poised to solve
                        your business problems by automating various tasks that cut down on costs and save a lot of time.<br/><br/>
@@ -312,7 +322,10 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <img src="img\icon\FinTech.png" /> </a>
+                     <a href="#" class="passion_icon"> 
+                        <img src="img\icon\FinTech1.svg" style="padding: 10px;" class="custom_fintech_icon_1"/>
+                        <img src="img\icon\FinTech2.svg" style="padding: 10px;" class="custom_fintech_icon_2"/>
+                     </a>
                      <h4>FinTech</h4>
                      <p>Financial companies expect to be able to leverage the latest technological advancements to make
                        their daily operations easier. HuaSheng Tech specializes in creating software solutions that make this possible on any scale.
@@ -324,7 +337,10 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <img src="img\icon\GIS.png" /> </a>
+                     <a href="#" class="passion_icon"> 
+                        <img src="img\icon\GIS1.svg" style="padding: 10px;" class="custom_gis_icon_1"/>
+                        <img src="img\icon\GIS2.svg" style="padding: 10px;" class="custom_gis_icon_2"/>
+                     </a>
                      <h4>GIS</h4>
                      <p>Deliver geospatial consultancy services to a wild range of clients involved in transport and infrastructure, asset management, land management and planning.<br/><br/><br/></p>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -334,7 +350,10 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <img src="img\icon\CRM_ERP.png" /> </a>
+                     <a href="#" class="passion_icon"> 
+                        <img src="img\icon\CRM_ERP1.svg" style="padding: 10px;" class="custom_crmerp_icon_1"/>
+                        <img src="img\icon\CRM_ERP2.svg" style="padding: 10px;" class="custom_crmerp_icon_2"/>
+                     </a>
                      <h4>CRM/ERP</h4>
                      <p>With the use of your personal and digital channels, your promotional spend will get optimized for your business worldwide. CRM and ERP
                        system is integrated to give you maximum return on investment(ROI)
@@ -346,7 +365,10 @@
             <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
-                     <a href="#" class="passion_icon"> <img src="img\icon\AR_VR.png" /> </a>
+                     <a href="#" class="passion_icon"> 
+                        <img src="img\icon\AR_VR1.svg" style="padding: 10px;" class="custom_arvr_icon_1"/>
+                        <img src="img\icon\AR_VR2.svg" style="padding: 10px;" class="custom_arvr_icon_2"/>
+                     </a>
                      <h4>AR/VR</h4>
                      <p>Augmented reality (AR) adds digital elements to a live view often by using the camera on a smartphone. Examples of augmented reality experiences include Snapchat lenses and the game Pokemon Go.
                      </p>
@@ -365,8 +387,8 @@
          <div class="row">
             <div class="col-md-6 col-lg-6">
                <div class="room_1">
-                  <img src="img/webdev-1.png" >
-                  <div class="room_text_1">
+                  <img src="img/webdev-1.png" width="100%" height="500px">
+                  <div class="room_text_1" style="left: 30px;">
                      <h1>Web Sites Development <!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
                   </div>
@@ -374,7 +396,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                <div class="room_2">
-                  <img src="img/mobiledev-1.png" alt="">
+                  <img src="img/mobiledev-1.png" width="100%" height="500px">
                   <div class="room_text_2">
                      <h1>Mobile Application Development<!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -385,7 +407,7 @@
          <div class="row" style="padding-top: 30px;">      
             <div class="col-md-6 col-lg-6">
                <div class="room_2">
-                  <img src="img/servermanagement-1.png" alt="">
+                  <img src="img/servermanagement-1.png" width="100%" height="500px" >
                   <div class="room_text_2">
                      <h1>Server Management<!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -394,7 +416,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                <div class="room_1">
-                  <img src="img/machinelearn1.png" alt="">
+                  <img src="img/machinelearn1.png" width="100%" height="500px">
                   <div class="room_text_1">
                      <h1>Machine Learning / AI <!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -405,7 +427,7 @@
          <div class="row" style="padding-top: 30px;">      
             <div class="col-md-6 col-lg-6">
                <div class="room_2">
-                  <img src="img/IOT.jpg" alt="">
+                  <img src="img/IOT.jpg" width="100%" height="500px">
                   <div class="room_text_2">
                      <h1>IOT<!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
@@ -414,7 +436,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                <div class="room_1">
-                  <img src="img/crm-erp1.png" alt="">
+                  <img src="img/crm-erp1.png" width="100%" height="500px">
                   <div class="room_text_1">
                      <h1>CRM/ERP <!-- <br> light divided male <br> is light --></h1>
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
