@@ -494,24 +494,6 @@
                   </div>
                   <div class="singler_eview_part">
                      <div class="client_info">
-                        <img src="img/team/Edgar_Sia.png" alt="">
-                        <h4>Edgar Sia</h4>
-                        <p>Project Manager</p>
-                     </div>
-                     <p>
-                       <i>"Edgar is an expert IOS developer, He is the master of many IOS frameworks and is the right guy for any IOS app development with quality code, Highly Recommended !!" - Sasidhar Padmanabhuni of CrazyNova LLC.</i>
-                        <br>
-                        <i>
-                           "Edgar has been a great asset to the team - so much so, that we have decided to work on an ongoing full-time basis with him." - Alex Buckham of Buckham and Duffy Pty Ltd.
-                        </i>
-                        <br>
-                        <i>
-                           Edgar was the Senior iOS Engineer in the above software companies, Buckham & Duffy and CrazyNova, and has developed native iOS Applications for App Store. Also, he has developed Enterprise iOS applications for Royal Flying Doctor Service Australia and TITAN Hoarding Systems Australia.
-                        </i>
-                     </p>
-                  </div>
-                  <div class="singler_eview_part">
-                     <div class="client_info">
                         <img src="img/team/xianyi.jpeg" alt="">
                         <h4>Xian Yi</h4>
                         <p>Senior Web/Mobile Developer</p>
@@ -563,16 +545,6 @@
                        <i>Zhang Hao is a fullstack web and mobile developer with 9 years of experiences.
                            He is a speciality of javascript and C#.
                            He is good at React.js, Vue.js, Node.js, ASP.NET and Swift.</i>
-                     </p>
-                  </div>
-                  <div class="singler_eview_part">
-                     <div class="client_info">
-                        <img src="img/team/wangliang.jpg" alt="">
-                        <h4>Wang Liang</h4>
-                        <p>Full Stack Web Developer</p>
-                     </div>
-                     <p>
-                       <i>Wang is an full time freelancer with good experience of Cryptocurrency, Web/App/Other, IOT, Raspberry Pi.</i>
                      </p>
                   </div>
                </div>
