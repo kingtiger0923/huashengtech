@@ -1740,7 +1740,7 @@ ul {
   width: 510px;
   position: absolute;
   z-index: 9;
-  top: -175px;
+  top: -127px;
   right: 30px;
 }
 
@@ -1769,7 +1769,7 @@ ul {
   .room_part .container-fluid .room_1 .room_text_1 {
     width: 300px;
     z-index: 9;
-    top: -100px;
+    top: -127px;
     right: 30px;
   }
 }
@@ -1779,7 +1779,7 @@ ul {
   .room_part .container-fluid .room_1 .room_text_1 {
     width: 350px;
     z-index: 9;
-    top: -175px;
+    top: -100px;
     right: 30px;
   }
 }
@@ -1860,7 +1860,7 @@ ul {
   width: 510px;
   position: absolute;
   z-index: 9;
-  bottom: -175px;
+  bottom: -100px;
   left: 30px;
 }
 
@@ -5974,3 +5974,37 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.passion_height img.custom_blockchain_icon_1,
+.passion_height:hover img.custom_blockchain_icon_2,
+.passion_height img.custom_iot_icon_1,
+.passion_height:hover img.custom_iot_icon_2,
+.passion_height img.custom_mcahine_icon_1,
+.passion_height:hover img.custom_machine_icon_2,
+.passion_height img.custom_fintech_icon_1,
+.passion_height:hover img.custom_fintech_icon_2,
+.passion_height img.custom_gis_icon_1,
+.passion_height:hover img.custom_gis_icon_2,
+.passion_height img.custom_crmerp_icon_1,
+.passion_height:hover img.custom_crmerp_icon_2,
+.passion_height img.custom_arvr_icon_1,
+.passion_height:hover img.custom_arvr_icon_2 {
+  display: block;
+}
+
+.passion_height img.custom_blockchain_icon_2, 
+.passion_height:hover img.custom_blockchain_icon_1,
+.passion_height:hover img.custom_iot_icon_1,
+.passion_height img.custom_iot_icon_2,
+.passion_height:hover img.custom_machine_icon_1,
+.passion_height img.custom_machine_icon_2,
+.passion_height:hover img.custom_fintech_icon_1,
+.passion_height img.custom_fintech_icon_2,
+.passion_height:hover img.custom_gis_icon_1,
+.passion_height img.custom_gis_icon_2,
+.passion_height:hover img.custom_crmerp_icon_1,
+.passion_height img.custom_crmerp_icon_2,
+.passion_height:hover img.custom_arvr_icon_1,
+.passion_height img.custom_arvr_icon_2 {
+  display: none;
+}
