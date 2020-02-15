@@ -467,8 +467,7 @@
                         <h4>Wen Chang</h4>
                         <p>Project Manager/Lead Developer</p>
                      </div>
-                     <p><i>Wen Chang has 10 years of experience in building web/mobile applications by using Javascript technologies. He concentrates on building applications
-                       using the latest javascript frameworks such as React, Angular, Vue and Node.</i>
+                     <p><i>Wen is an experienced UI/UX, frontend and backend developer with a demonstrated history of working on both web-based and mobile applications. He is a full-stack professional with 8 years of programming experience and a Bachelor of Science focused on Computer Science degree.</i>
                      </p>
                   </div>
                   <div class="singler_eview_part">
@@ -498,6 +497,26 @@
                      <p>
                        <i>Xian Yi is hardworking, determined and self-motivated person with self-drive.
                          I am willing to take on any challenge while creating solutions to complex problems using a deliberate and organized approach.</i>
+                     </p>
+                  </div>
+                  <div class="singler_eview_part">
+                     <div class="client_info">
+                        <img src="img/team/ZheLan_Sun.jpg" alt="">
+                        <h4>ZheLan Sun</h4>
+                        <p>Lead Web Developer</p>
+                     </div>
+                     <p>
+                       <i>
+                           Sun is a talent star of Huasheng with its growing.
+                           As a professional 10 years of web development experience, He have solved many issues of current project. Since 2015, He is leading main web development team of HuaSheng.
+                           -Brief Summary of Skill-
+                              *Frontend(SPA, PWA, Javascript/Typescript, LESS/SASS)
+                              *Backend(Javascript/Node.js, Java/Spring, Python/Django)
+                              *Database(PostgreSQL, MySQL, MongoDB)
+                              *Web Service(AWS/Digital Oceans/GCP, REST/SOAP/GraphQL/API/WebSocket)
+                              *Version Control: GitHub, BitBucket
+                              *Project Management: Asana, Docker
+                        </i>
                      </p>
                   </div>
                   <div class="singler_eview_part">
