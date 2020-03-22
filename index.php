@@ -168,7 +168,7 @@
 
                   <div class="service-desc">
                      <h3>Custom Software Development</h3>
-                     <p>Wheter you are a start-up or an established business, we provide full-cycle software development services to support you every step of the way;-
+                     <p>Whatever you are a start-up or an established business, we provide full-cycle software development services to support you every step of the way;-
                        from conceptualization and consulting to development and support.
                      </p>
                   </div>
@@ -186,7 +186,7 @@
                   <div class="service-desc">
                      <h3>IT Consulting</h3>
                      <p>Backed by successfully delivered projects, we bring to the table unparalleled experience and knowledge to help you accelerate your
-                       digital transformation. Hir our seasoned IT experts for strategic consulting on the best ways to harness groundbreaking technologies
+                       digital transformation. Hire our seasoned IT experts for strategic consulting on the best ways to harness groundbreaking technologies
                        and take your business to the next level.
                      </p>
                   </div>
