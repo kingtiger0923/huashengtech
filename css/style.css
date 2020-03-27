@@ -641,7 +641,7 @@ ul {
 /* line 59, E:/161 Real estate/161_Real_state_html/sass/_banner.scss */
 .banner_part .banner_text h5 {
   font-size: 14px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-family: "Open Sans", sans-serif;
   font-weight: 600;
   color: #666666;
