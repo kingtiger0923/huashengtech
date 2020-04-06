@@ -8,6 +8,11 @@ body {
   font-size: 14px;
 }
 
+
+.img-logo {
+  width: 200px;
+}
+
 /* line 9, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 section {
   overflow: hidden !important;
