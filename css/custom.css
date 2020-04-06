@@ -1,6 +1,6 @@
 
 .huasheng{
-  color: #cfb579 !important;
+  color: #55b236 !important;
 }
 
 .contact-info .media-body .huasheng {
@@ -157,7 +157,7 @@ background-position: center top !important;
   margin-bottom: : 50px;
 }
 .features_title {
-  color: #cfb579;
+  color: #55b236;
   font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
@@ -198,9 +198,9 @@ background-position: center top !important;
 }
 
 .service-icon {
-    border: 1px solid #cfb579;
+    border: 1px solid #55b236;
     border-radius: 50%;
-    color: #cfb579;
+    color: #55b236;
     float: left;
     padding: 10px 13px;
 }
