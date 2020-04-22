@@ -374,3 +374,20 @@ figure, p {
    opacity: 0;
   -webkit-transition: all .5s;
 }*/
+
+#management .singler_eview_part .client_info img{
+  width: 90px;
+  height: auto;
+  margin-right: 20px;
+  float: left;
+}
+
+#management .singler_eview_part .client_info h4 {
+  padding-top: 19px;
+  font-weight: 600;
+}
+
+#management .singler_eview_part .client_info p {
+  margin-top: 0px;
+  font-weight: normal;
+}

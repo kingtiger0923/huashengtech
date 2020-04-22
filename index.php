@@ -67,6 +67,9 @@
                            <a class="nav-link page-scroll" href="#clients">Clients</a>
                         </li> -->
                         <li class="nav-item">
+                           <a class="nav-link page-scroll" href="#management">Management</a>
+                        </li>
+                        <li class="nav-item">
                            <a class="nav-link page-scroll" href="#team">Team</a>
                         </li>
                         <li class="nav-item">
@@ -239,7 +242,7 @@
             </div>
          </div>
          <div class="row">
-            <div class="passion_height">
+            <div class="passion_height" style="flex: 0 0 25%;">
                <div class="single_passion">
                   <div class="single_passion_item">
                      <a href="#" class="passion_icon"> <i class="fas fa-shopping-cart" style="vertical-align: middle;"></i> </a>
@@ -252,7 +255,7 @@
                   </div>
                </div>
             </div>
-            <div class="passion_height">
+            <div class="passion_height" style="flex: 0 0 25%;">
                <div class="single_passion">
                   <div class="single_passion_item">
                      <a href="#" class="passion_icon"> <i class="fa fa-desktop" style="vertical-align: middle;"></i> </a>
@@ -265,7 +268,7 @@
                   </div>
                </div>
             </div>
-            <div class="passion_height">
+            <div class="passion_height" style="flex: 0 0 25%;">
                <div class="single_passion">
                   <div class="single_passion_item">
                      <a href="#" class="passion_icon"> <i class="fa fa-mobile" style="vertical-align: middle; font-size: 65px;"></i> </a>
@@ -275,7 +278,7 @@
                   </div>
                </div>
             </div>
-            <div class="passion_height">
+            <!-- <div class="passion_height">
                <div class="single_passion">
                   <div class="single_passion_item">
                      <a href="#" class="passion_icon" style="color: white;">
@@ -287,8 +290,8 @@
                      <a href="#" class="btn_2 d-none">Read More <span class="ti-arrow-right"></span></a>
                   </div>
                </div>
-            </div>
-            <div class="passion_height">
+            </div> -->
+            <div class="passion_height" style="flex: 0 0 25%;">
                <div class="single_passion">
                   <div class="single_passion_item">
                      <a href="#" class="passion_icon"> 
@@ -449,13 +452,41 @@
    </div>
    <!--::room_part end::-->
 
+   <!--::Management Part Start::-->
+   <div class="review_part" id="management">
+      <div class="container">
+         <div class="row">
+            <div class="col-sm-8 col-lg-7">
+               <div class="section_tittle">
+                  <h1>Message from Manager</h1>
+               </div>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-12">
+               <div class="singler_eview_part">
+                  <div class="client_info">
+                     <img src="img/ceo/XiaoNa-Ma.jpg" alt="">
+                     <h4>XiaoNa Ma</h4>
+                     <p>Team Lead & System Engineer</p>
+                  </div>
+                  <p style="clear: both; padding-top: 20px;">
+                    <i>XiaoNa Ma has over ten years of professional and management experience. She managed multiple bank branches for over seven years, which included extreme attention to detail, management of multiple tasks at once, and completion of tasks and goals within a specific timeframe. She is extremely motivated towards success.<br>She is a  Team Lead & System Engineer and This site is owned and operated by XiaoNa Ma</i>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!--::Management Part End::-->
+
    <!--::review_part end::-->
    <div class="review_part" id="team">
       <div class="container">
          <div class="row">
             <div class="col-sm-8 col-lg-7">
                <div class="section_tittle">
-                  <h1>Meet HuaSheng experts</h1>
+                  <h1>Meet Our Experts</h1>
                </div>
             </div>
          </div>
@@ -463,6 +494,47 @@
             <div class="col-lg-12">
                <div class="review_part_text owl-carousel">
                   <div class="singler_eview_part">
+                     <div class="client_info">
+                        <img src="img/team/ChuChing.jpg" alt="">
+                        <h4>Chu  Ching</h4>
+                        <p>Senior Designer</p>
+                     </div>
+                     <p>
+                       <i>Chu Ching is a senior Designer and he has over 8 years of professional experience in the industry. He is very proficient in Adobe Illustrator, Photoshop and InDesign. He have a lot of background in both Print and Web Design</i>
+                     </p>
+                  </div>
+                  <div class="singler_eview_part">
+                     <div class="client_info">
+                        <img src="img/team/jinlong.png" alt="">
+                        <h4>JinLong Yin</h4>
+                        <p>Full-stack Web Developer</p>
+                     </div>
+                     <p>
+                       <i>JinLong's previous experiences have built him into a fast adapting individual capable of overcoming and adapting to new challenges.
+                       He has worked across industries that have built him into the professional that he is today.
+                       He has tackled and overcame a lot of obstacles during past experiences. He simply likes to work hard, play fair and live in harmony.</i>
+                     </p>
+                  </div>
+                  <div class="singler_eview_part">
+                     <div class="client_info">
+                        <img src="img/team/wenchang.jpg" alt="">
+                        <h4>Wen Chang</h4>
+                        <p>Senior Security Analyst & Penetration Tester</p>
+                     </div>
+                     <p><i>As an expert penetration tester and cybersecurity researcher, Wen Chang has a deep understanding of the end-to-end security process to ensure all vulnerabilities are identified. His experience testing web applications, databases, systems and networks come from his background as a Penetration Tester for Cisco Systems, the world's leading network, and IT provider, and founding Pensive Security, a cybersecurity advising firm.</i>
+                     </p>
+                  </div>
+                  <div class="singler_eview_part">
+                     <div class="client_info">
+                        <img src="img/team/xianyi.jpeg" alt="">
+                        <h4>Xian Yi</h4>
+                        <p>Mobile Developer</p>
+                     </div>
+                     <p>
+                       <i>Extensive global development success on the iOS and Android platforms with strong expertise in both Swift and Kotlin for iPhone, Android. He has launched many apps and larger companies on apps from MBP to those with user bases into the tens of millions</i>
+                     </p>
+                  </div>
+                  <!-- <div class="singler_eview_part">
                      <div class="client_info">
                         <img src="img/team/ChuChing.jpg" alt="">
                         <h4>Chu  Ching</h4>
@@ -503,8 +575,8 @@
                        <i>Xian Yi is hardworking, determined and self-motivated person with self-drive.
                          I am willing to take on any challenge while creating solutions to complex problems using a deliberate and organized approach.</i>
                      </p>
-                  </div>
-                  <div class="singler_eview_part">
+                  </div> -->
+                  <!-- <div class="singler_eview_part">
                      <div class="client_info">
                         <img src="img/team/ZheLan_Sun.jpg" alt="">
                         <h4>ZheLan Sun</h4>
@@ -547,7 +619,7 @@
                            He is a speciality of javascript and C#.
                            He is good at React.js, Vue.js, Node.js, ASP.NET and Swift.</i>
                      </p>
-                  </div>
+                  </div> -->
                </div>
             </div>
          </div>
@@ -657,13 +729,13 @@
                  <!-- <p>Rosemead, CA 91770</p> -->
                </div>
              </div>
-             <div class="media contact-info">
+             <!-- <div class="media contact-info">
                <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                <div class="media-body">
                  <h3 class="huasheng"><a href="tel:+86 130 2035 9005">+86 130 2035 9005</a></h3>
                  <p>Mon to Sat 9am to 8pm (UTC+8)</p>
                </div>
-             </div>
+             </div> -->
              <div class="media contact-info">
                <span class="contact-info__icon"><i class="ti-email"></i></span>
                <div class="media-body">
