@@ -40,13 +40,13 @@
 	    //Server settings
 	    $mail = new PHPMailer();
 		$mail->IsSMTP();
-		$mail->CharSet = 'UTF-8';
-	    $mail->Host       = 'smtp.gmail.com';
-	    $mail->SMTPAuth   = true;
-	    $mail->Username   = 'newcaesar628@gmail.com';
-	    $mail->Password   = 'Top12345';
-	    $mail->SMTPSecure = 'ssl';
-	    $mail->Port       = 465;
+		// $mail->CharSet = 'UTF-8';
+	 //    $mail->Host       = 'smtp.gmail.com';
+	 //    $mail->SMTPAuth   = true;
+	 //    $mail->Username   = 'newcaesar628@gmail.com';
+	 //    $mail->Password   = 'Top12345';
+	 //    $mail->SMTPSecure = 'ssl';
+	 //    $mail->Port       = 465;
 
 	    //Recipients
 	    $mail->From = $from;
@@ -57,7 +57,7 @@
 		$mail->addAddress($to);
 
 
-	    $mail->send();
+	    //$mail->send();
 	    echo 'Message has been sent';
 	} catch (Exception $e) {
 	    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
